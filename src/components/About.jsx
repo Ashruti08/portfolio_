@@ -18,9 +18,19 @@ function About() {
           Education
         </h1>
         <span>
-          Degree : B.tech in Computer Science and Engineering  &nbsp; 2020-2024
+          <b>Degree</b><br></br>  B.tech in Computer Science and Engineering  &nbsp; 2020-2024
           <br></br>
-          University : Charotar University Of Science and Technology, anand
+          <b>SGPA</b> : 10/10
+          <br></br>
+          <b>CGPA</b> : 9.01/10<br></br>
+          University : Charotar University Of Science and Technology, anand.
+          <br></br><br></br>
+          <b>12th GSEB</b><br></br>
+          Vidhyadhish vidhyasankul, bhavnagar&nbsp; 2020<br></br>
+          <b>percentile</b> : 91.64% <br></br><br></br>
+          <b>10th GSEB</b><br></br>
+          Sardar Patel Educational Institute, bhavnagar&nbsp; 2018<br></br>
+          <b>percentile</b> : 99.80%
 
         </span>
         <br />
