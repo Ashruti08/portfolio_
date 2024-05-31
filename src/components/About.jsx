@@ -23,7 +23,7 @@ function About() {
           <b>SGPA</b> : 10/10
           <br></br>
           <b>CGPA</b> : 9.01/10<br></br>
-          University : Charotar University Of Science and Technology, anand.
+          Charotar University Of Science and Technology, anand.
           <br></br><br></br>
           <b>12th GSEB</b><br></br>
           Vidhyadhish vidhyasankul, bhavnagar&nbsp; 2020<br></br>
