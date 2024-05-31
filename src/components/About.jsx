@@ -7,8 +7,8 @@ function About() {
       className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-20"
     >
       <div>
-        <h1 className="text-3xl font-bold mb-5">About</h1>
-        <p>
+        <h1 className="text-3xl font-bold mb-5 ">About</h1>
+        <p className="text-justify md:text-md">
         Hello, I'm Ashruti, A passionate Web developer with a keen eye for MERN Stack, UI/UX development, Web Designing,
         AR/VR. With a background in IT, I strive to create impactful and visually stunning Software solutions that leave
         a lasting impression.
@@ -38,7 +38,7 @@ function About() {
         <h1 className="text-green-600 font-semibold text-xl">
           Skills & Expertise
         </h1>
-        <span className="text-justify">
+        <span className="text-justify md:text-md">
           Proficient in C++, C, Java, Python Experienced with Javascript, React.js, Node.js, Express.js, MongoDB, Next.js, TypeScript, SQL, A-frame
           (Virtual Reality FrameWork), Machine Learning, Photoshop, Fusion 360, Blender, Automation With Java Selenium Strong grasp of Data Structure
           And Algorithm, Database Management System, Excellent problem-solving skills Effective communicator and collaborator.
@@ -70,7 +70,7 @@ function About() {
         <h1 className="text-green-600 font-semibold text-xl">
           Mission Statement
         </h1>
-        <p className=" text-justify">
+        <p className=" text-justify md:text-md">
         My mission is to leverage my skills and creativity to deliver innovative Web solutions that exceed client expectations  and
         contribute positively to the digital landscape. I am committed to continuous learning and growth, always seeking new challenges and opportunities to expand my horizons.
         </p>
