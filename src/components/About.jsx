@@ -48,7 +48,7 @@ function About() {
         <h1 className="text-green-600 font-semibold text-xl">
           Professional Experience
         </h1>
-        <span>
+        <span className="md:text-md text-justify">
           1) Alphabin Technology Consulting,surat. MERN stack developer intern (1 month)
           <br></br>
           2) Raven Technolabs, Rajkot. MERN stack developer intern (1 month)
