@@ -49,11 +49,15 @@ function About() {
           Professional Experience
         </h1>
         <span className="md:text-md text-justify">
-          1) Alphabin Technology Consulting,surat. MERN stack developer intern (1 month)
+        
+           1) PCS global pvt. Ltd. (Full-Time) (1 Year)
+        
           <br></br>
-          2) Raven Technolabs, Rajkot. MERN stack developer intern (1 month)
+            2) Lanet Team Software Solutions,surat. MERN stack developer trainee (5 Months)
           <br></br>
-          3) Lanet Team Software Solutions,surat. MERN stack developer trainee (5 Months)
+  3) Raven Technolabs, Rajkot. MERN stack developer intern (6 month)
+          <br></br>
+           4) Alphabin Technology Consulting,surat. MERN stack developer intern (1 month)
         </span>
         <br />
         <br />

@@ -1,6 +1,7 @@
 import React from "react";
 import tea from "../../public/logo.png";
 import task from "../../public/task.png";
+import jobportal from "../../public/jobportal.png"
 import log from "../../public/logo2.png";
 import weather from "../../public/weatherlogo.png";
 function PortFolio() {
@@ -27,8 +28,16 @@ function PortFolio() {
       para: "it is cutting-edge platform that brings together digital artists and art enthusiasts user can sell and buy art works. Login, Register,Cart, Wishlist, Sell your work, Payment and many more features included. ",
       
     },
-    {
+     {
       id: 4,
+      logo: jobportal,
+      name: "Job Portal",
+      name2:"Next.js, React.js, MongoDB, Node.js, Typescript, Stripe",
+      para: "Full-featured job portal with recruiter dashboard, candidate dashboard, HR dashboard, job posting, and application tracking--all features comparable to naukri platform. ",
+      
+    },
+    {
+      id: 5,
       logo: weather,
       name: "Live weather Webapp",
       name2:"React.js, MongoDB, Node.js, Firebase, Tailwindcss",
